@@ -1,0 +1,13 @@
+/home/maiara/Área de Trabalho/Desafio/bin/Debug/netcoreapp3.1/Desafio
+/home/maiara/Área de Trabalho/Desafio/bin/Debug/netcoreapp3.1/Desafio.deps.json
+/home/maiara/Área de Trabalho/Desafio/bin/Debug/netcoreapp3.1/Desafio.runtimeconfig.json
+/home/maiara/Área de Trabalho/Desafio/bin/Debug/netcoreapp3.1/Desafio.runtimeconfig.dev.json
+/home/maiara/Área de Trabalho/Desafio/bin/Debug/netcoreapp3.1/Desafio.dll
+/home/maiara/Área de Trabalho/Desafio/bin/Debug/netcoreapp3.1/Desafio.pdb
+/home/maiara/Área de Trabalho/Desafio/obj/Debug/netcoreapp3.1/Desafio.csprojAssemblyReference.cache
+/home/maiara/Área de Trabalho/Desafio/obj/Debug/netcoreapp3.1/Desafio.AssemblyInfoInputs.cache
+/home/maiara/Área de Trabalho/Desafio/obj/Debug/netcoreapp3.1/Desafio.AssemblyInfo.cs
+/home/maiara/Área de Trabalho/Desafio/obj/Debug/netcoreapp3.1/Desafio.csproj.CoreCompileInputs.cache
+/home/maiara/Área de Trabalho/Desafio/obj/Debug/netcoreapp3.1/Desafio.dll
+/home/maiara/Área de Trabalho/Desafio/obj/Debug/netcoreapp3.1/Desafio.pdb
+/home/maiara/Área de Trabalho/Desafio/obj/Debug/netcoreapp3.1/Desafio.genruntimeconfig.cache
